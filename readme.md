@@ -1,10 +1,8 @@
-My name is Sergey Zozulya (_cyrillic: Сергей Зозуля_)
-I am frontend-developer from Moscow, Russia.
+My name is Sergey Zozulya (_cyrillic: Сергей Зозуля_).
+<br>I am frontend-developer from Moscow, Russia.
 This is my GitHub profile.  
 
 ### Contacts:
-I speak **English** (fluent, I guess) & **Russian** (native)
-
 **Telegram:** [@sere_nya](https://t.me/sere_nya)  
 **Email:**  zozulyasv1999@gmail.com    
 
