@@ -12,7 +12,7 @@ This is my GitHub profile.
 
 **_FRONTEND:_**
 
-<img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=#61DAFB"/> <img src="https://img.shields.io/badge/Redux-grey?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Redux--Saga-grey?style=for-the-badge&logo=reduxsaga&logoColor=white"/>  <img src="https://img.shields.io/badge/MobX-grey?style=for-the-badge&logo=mobx&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=#61DAFB"/> <img src="https://img.shields.io/badge/Redux-grey?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Redux--Saga-grey?style=for-the-badge&logo=reduxsaga&logoColor=white"/>  <img src="https://img.shields.io/badge/MobX-grey?style=for-the-badge&logo=mobx&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Webpack-grey?style=for-the-badge&logo=webpack&logoColor=white"/>
 
 
 _**BACKEND**_ 
